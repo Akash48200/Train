@@ -3,3 +3,4 @@
 Welcome to the training file
 This file is just for learning 
 just to know some of the features of github
+waiting to be merged
